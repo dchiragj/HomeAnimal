@@ -1,0 +1,19 @@
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\bin\Debug\netcoreapp3.1\CommandResults.deps.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\bin\Debug\netcoreapp3.1\CommandResults.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\bin\Debug\netcoreapp3.1\CommandResults.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.csproj.AssemblyReference.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.AssemblyInfoInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.AssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.csproj.CoreCompileInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.pdb
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\bin\Debug\netcoreapp3.1\CommandResults.deps.json
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\bin\Debug\netcoreapp3.1\CommandResults.dll
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\bin\Debug\netcoreapp3.1\CommandResults.pdb
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.csproj.AssemblyReference.cache
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.AssemblyInfoInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.AssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.csproj.CoreCompileInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.dll
+D:\Project\HomeAnimals\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\CommandResults\obj\Debug\netcoreapp3.1\CommandResults.GeneratedMSBuildEditorConfig.editorconfig

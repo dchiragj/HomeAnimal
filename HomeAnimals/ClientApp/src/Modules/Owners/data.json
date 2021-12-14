@@ -1,0 +1,380 @@
+[
+  {
+    "id": "1",
+    "name": "Owner 1",
+    "dob": "1-1-2000",
+    "age": 21,
+    "address": "California",
+    "phone": "223-556-884",
+    "noOfPets": 3,
+    "pets": {
+      "cats": [
+        {
+          "id": "1",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 6,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "2",
+          "name": "cat2",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 15,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ],
+      "dogs": [
+        {
+          "id": "3",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 7,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  {
+    "id": "2",
+    "name": "Owner 2",
+    "dob": "1-1-2001",
+    "age": 20,
+    "address": "New York",
+    "phone": "153-477-844",
+    "noOfPets": 3,
+    "pets": {
+      "cats": [
+        {
+          "id": "4",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 10,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ],
+      "dogs": [
+        {
+          "id": "5",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 9,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "6",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 13,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  {
+    "id": "3",
+    "name": "Owner 3",
+    "dob": "2-1-2000",
+    "age": 21,
+    "address": "Tokyo",
+    "phone": "253-881-504",
+    "noOfPets": 6,
+    "pets": {
+      "cats": [
+        {
+          "id": "7",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 17,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "8",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 3,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ],
+      "dogs": [
+        {
+          "id": "9",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 4,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "10",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 17,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "11",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 11,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "12",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 1,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  {
+    "id": "4",
+    "name": "Owner 4",
+    "dob": "1-1-1995",
+    "age": 26,
+    "address": "London",
+    "phone": "792-106-254",
+    "noOfPets": 4,
+    "pets": {
+      "cats": [
+        {
+          "id": "13",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 6,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "14",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 16,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ],
+      "dogs": [
+        {
+          "id": "15",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 2,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "16",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 18,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  {
+    "id": "5",
+    "name": "Owner 5",
+    "dob": "1-2-2000",
+    "age": 21,
+    "address": "Mumbai",
+    "phone": "8647218364",
+    "noOfPets": 4,
+    "pets": {
+      "cats": [
+        {
+          "id": "17",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 6,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "18",
+          "name": "cat1",
+          "noOfFeeding": 3,
+          "dob": "5-4-2015",
+          "age": 9,
+          "levelOfTraining": 2,
+          "catchingMouses": true,
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ],
+      "dogs": [
+        {
+          "id": "19",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 15,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        },
+        {
+          "id": "20",
+          "name": "dog1",
+          "noOfFeeding": 1,
+          "dob": "7-5-2012",
+          "age": 4,
+          "levelOfTraining": 5,
+          "supposedHeight": "5cm",
+          "breed": "xyz",
+          "characteristics": "brown-big",
+          "medicalCondition": "xyz",
+          "vaccination": false,
+          "gender": "Female",
+          "colour": "black"
+        }
+      ]
+    },
+    "gender": "Male"
+  }
+]

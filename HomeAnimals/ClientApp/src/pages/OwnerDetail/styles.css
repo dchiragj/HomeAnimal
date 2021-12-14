@@ -1,0 +1,19 @@
+.ownerAndPets {
+  max-width: 1440px;
+  margin: auto;
+  width: 100%;
+}
+
+.ownerInfoWrapper .block .w-25, .petsInfoWrapper .block .w-25 {
+  min-width: 180px;
+}
+
+.ownerInfoWrapper .block p {
+  min-width: 100px;
+}
+@media (min-width: 1024px) {
+  .bodyWrapper {
+    max-height: 800px;
+    overflow: auto;
+  }
+}

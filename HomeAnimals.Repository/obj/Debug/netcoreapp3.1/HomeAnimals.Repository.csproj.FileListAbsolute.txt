@@ -1,0 +1,29 @@
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.deps.json
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Models.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.csproj.AssemblyReference.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.AssemblyInfoInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.AssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.csproj.CoreCompileInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.csproj.CopyComplete
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.deps.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Models.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\bin\Debug\netcoreapp3.1\Models.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.csproj.AssemblyReference.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.AssemblyInfoInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.AssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.csproj.CoreCompileInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.csproj.CopyComplete
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals.Repository\obj\Debug\netcoreapp3.1\HomeAnimals.Repository.GeneratedMSBuildEditorConfig.editorconfig

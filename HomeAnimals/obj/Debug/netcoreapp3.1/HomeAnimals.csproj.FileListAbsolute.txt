@@ -1,0 +1,189 @@
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.exe
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.deps.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.runtimeconfig.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.runtimeconfig.dev.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Views.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Views.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.csproj.AssemblyReference.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.AssemblyInfoInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.AssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.csproj.CoreCompileInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.MvcApplicationPartsAssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.MvcApplicationPartsAssemblyInfo.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorAssemblyInfo.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorAssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\staticwebassets\HomeAnimals.StaticWebAssets.Manifest.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\staticwebassets\HomeAnimals.StaticWebAssets.xml
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\scopedcss\bundle\HomeAnimals.styles.css
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.TagHelpers.input.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.TagHelpers.output.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorCoreGenerate.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorTargetAssemblyInfo.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorTargetAssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.Views.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.csproj.CopyComplete
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.genruntimeconfig.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\CommandResults.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Models.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\CommandResults.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.exe
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.deps.json
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.runtimeconfig.json
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.runtimeconfig.dev.json
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Views.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Views.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\CommandResults.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Models.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\CommandResults.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.csproj.AssemblyReference.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.AssemblyInfoInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.AssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.csproj.CoreCompileInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorAssemblyInfo.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorAssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\staticwebassets\HomeAnimals.StaticWebAssets.Manifest.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\staticwebassets\HomeAnimals.StaticWebAssets.xml
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\scopedcss\bundle\HomeAnimals.styles.css
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.TagHelpers.input.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.TagHelpers.output.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorCoreGenerate.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorTargetAssemblyInfo.cache
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.RazorTargetAssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.Views.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.csproj.CopyComplete
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.dll
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.pdb
+D:\Project\HomeAnimals\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.genruntimeconfig.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\bin\Debug\netcoreapp3.1\HomeAnimals.Repository.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\HomeAnimals\obj\Debug\netcoreapp3.1\HomeAnimals.GeneratedMSBuildEditorConfig.editorconfig

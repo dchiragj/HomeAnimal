@@ -1,0 +1,19 @@
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.pdb
+D:\Project\HomeAnimals\HomeAnimals\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Project\HomeAnimals\HomeAnimals\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Project\HomeAnimals\HomeAnimals\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Project\HomeAnimals\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Project\HomeAnimals\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\Project\HomeAnimals\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Project\HomeAnimals\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.pdb
+D:\Project\HomeAnimals\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+E:\Clients\Peter Belan SmartBooks\HomeAnimals\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig

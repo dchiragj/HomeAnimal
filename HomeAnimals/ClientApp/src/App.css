@@ -1,0 +1,5 @@
+.mainWrapper {
+  background-image: url("./images/background/petsBG.jpg");
+  background-size: cover;
+  min-height: 100%;
+}
